@@ -34,7 +34,7 @@ int main()
 	cout << "length of word is: " << name.length() << endl;
 	//  length of word is: 19
 	cout << " letter 'a' is " << findLetterA(name) << " times in your word " << endl;
-	//  letter 'a' is 7 times in your word
+	//  letter 'a' is 7 times in your line
 	
 
 	return 0;
